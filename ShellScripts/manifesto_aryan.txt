@@ -1,0 +1,8 @@
+Open Source Manifesto
+Generated on: 26 March 2026
+----------------------------------------
+As a developer in the modern tech ecosystem, I rely heavily on foundational tools like VS Code to build, design, and deploy my architecture.
+
+To me, the core philosophy of open-source software represents Think and implement freely.. It is the guarantee that the infrastructure we build upon remains transparent and auditable by the community.
+
+If I had the resources to contribute back to this ecosystem, I would build a Spotify Music Taste Matcher.. I would release it under a permissive license so that other developers could freely learn from its logic and modify it for their own systems.
